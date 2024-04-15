@@ -31,24 +31,21 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://parth-desai-portfolio.vercel.app/" target="_blank">My Portfolio!</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
 - React.js
 - Node.js
 - Express.js
-- CSS3
-- VsCode
-- Vercel
 
 ## Features
 
-**📖 Multi-Page Layout**
+- **Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+- **🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
-**📱 Fully Responsive**
+- **📱 Fully Responsive**
 
 ## Getting Started
 
