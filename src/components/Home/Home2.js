@@ -18,27 +18,33 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I started programming since I was in 10th grade!
+              I started programming since I was in 10th grade, and it has been a thrilling journey ever since! 
               <br />
-              <br />I am proficient in languages such as
+              <br />
+              I am proficient in languages such as 
               <i>
-                <b className="purple"> Javascript and Python. </b>
+                <b className="purple"> JavaScript and Python. </b>
               </i>
+              These two languages have allowed me to explore diverse realms of development, ranging from 
+              building intuitive web apps to automating complex tasks and data analysis.
               <br />
               <br />
-              My field of Interests are developing &nbsp;
+              My field of interests extends to creating
               <i>
-                <b className="purple">Robust and User-Centric Solutions</b> and
-                {" "}
-                <b className="purple">
-                  Money Markets.
-                </b>
-              </i>
+                <b className="purple"> Robust and User-Centric Solutions</b>
+              </i> for real-world problems and diving into the intricacies of
+              {" "}
+                <b className="purple">Money Markets</b>.
+              I find the world of finance fascinating and continuously seek opportunities to merge my technical skills with financial systems.
               <br />
               <br />
-              I apply my passion for developing solutions
-              with <b className="purple">MERN Stack</b>
-              &nbsp; and create a comprehensive standpoint that prioritizes performance, eliminating bottlenecks and ensure an amazing user experience.
+              Over the years, I have honed my abilities in full-stack development, particularly focusing on 
+              <b className="purple">MERN Stack</b> (MongoDB, Express.js, React.js, and Node.js). 
+              By integrating this powerful stack, I ensure that every solution I develop is optimized for performance, scalability, and user experience. 
+              My passion lies in creating responsive and fast web applications that are built to last, whether it's for startups or enterprise-level solutions.
+              <br />
+              <br />
+              When I'm not coding, you'll likely find me exploring new technologies, reading books on personal finance, or taking long walks while brainstorming new ideas. I believe in the power of continuous learning and staying curious, which helps me to keep evolving as both a developer and a person.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -90,4 +96,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;
